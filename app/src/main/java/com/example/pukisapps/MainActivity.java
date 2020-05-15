@@ -15,7 +15,17 @@ import androidx.navigation.ui.NavigationUI;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
-
+/*
+*  Nama  : Faiz Zainulfikri S
+*  Kelas : if5
+*  NIM   : 10117165
+*  12-MEI-2020 = membuat project lalu mencoba splashscreen
+*  13-MEI-2020 = membuat navigation drawer
+*  14-MEI-2020 = membuat walkthroughtl
+*  15-MEI-2020 = memperindah dan menyelesaikan tampilan home, daily activity
+*
+*
+* */
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
