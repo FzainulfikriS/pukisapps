@@ -29,7 +29,7 @@
         android:layout_height="37dp"
         android:layout_marginTop="30dp"
         android:text="Daily Activity"
-        android:textColor="@color/hitam"
+        android:textColor="@color/satu"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,7 +40,7 @@
     <RelativeLayout
         android:id="@+id/relativeLayout"
         android:layout_width="411dp"
-        android:layout_height="299dp"
+        android:layout_height="300dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
@@ -52,6 +52,11 @@
             android:layout_height="287dp"
             android:layout_marginLeft="18dp"
             android:layout_marginRight="18dp"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:paddingTop="3dp"
+            android:paddingBottom="3dp"
+            android:scrollbars="vertical"
             android:background="@drawable/button_custom3" />
     </RelativeLayout>
 
@@ -61,7 +66,7 @@
         android:layout_height="36dp"
         android:layout_marginTop="12dp"
         android:text="Friends List"
-        android:textColor="@color/hitam"
+        android:textColor="@color/satu"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -83,8 +88,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="18dp"
             android:layout_marginRight="18dp"
-            android:layout_marginBottom="18dp"
-            android:background="@drawable/button_custom3">
+            android:layout_marginBottom="18dp">
+            //android:background="">
 
         </androidx.recyclerview.widget.RecyclerView>
 

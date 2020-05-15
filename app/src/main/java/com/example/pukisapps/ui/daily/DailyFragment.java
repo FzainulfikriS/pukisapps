@@ -49,9 +49,9 @@ public class DailyFragment extends Fragment{
     String [] deskripsi = {"everytime","everytime","everytime","everytime","everytime","everytime"
             ,"everytime","everytime"};
 
-    int [] foto = {R.drawable.ic_profile,R.drawable.ic_profile,R.drawable.ic_profile,
-            R.drawable.ic_profile,R.drawable.ic_profile,R.drawable.ic_profile};
-    String  [] nama = {"yanto basna","adam kuy","lahang jojodog","halangan diri","boa boa",
+    int [] foto = {R.drawable.gambar14,R.drawable.gambar4,R.drawable.gambar5,
+            R.drawable.gambar7,R.drawable.gambar10,R.drawable.gambar12};
+    String  [] nama = {"asep sunda","endang kuy","vinci vape","agus diri","boa boa",
             "dosa dosa"};
 
     @Override

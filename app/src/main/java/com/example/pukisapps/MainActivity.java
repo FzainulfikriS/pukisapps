@@ -22,7 +22,7 @@ import androidx.appcompat.widget.Toolbar;
 *  12-MEI-2020 = membuat project lalu mencoba splashscreen
 *  13-MEI-2020 = membuat navigation drawer
 *  14-MEI-2020 = membuat walkthroughtl
-*  15-MEI-2020 = memperindah dan menyelesaikan tampilan home, daily activity
+*  15-MEI-2020 = memperindah dan menyelesaikan tampilan home, daily activity, music, profil, gallery
 *
 *
 * */
