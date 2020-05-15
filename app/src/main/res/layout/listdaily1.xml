@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="3dp">
+
+        <ImageView
+            android:id="@+id/ivdaily"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_daily" />
+
+        <TextView
+            android:id="@+id/tvdaily1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="1dp"
+            android:layout_toRightOf="@+id/ivdaily"
+            android:text="sleep"
+            android:textColor="@color/hitam"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvdaily2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvdaily1"
+            android:layout_marginLeft="12dp"
+            android:layout_toRightOf="@id/ivdaily"
+            android:text="05:00" />
+    </RelativeLayout>
+
+
+</FrameLayout>

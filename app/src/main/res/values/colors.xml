@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="hijaumuda">#74E475</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="lime">#00FF00</color>
+    <color name="kuning">#FFFF00</color>
+    <color name="maroon">#800000</color>
+    <color name="abu">#808080</color>
+    <color name="hitam">#000000</color>
+
+    <color name="satu">#58b4ae</color>
+    <color name="dua">#ffe277</color>
+    <color name="tiga">#ffb367</color>
+    <color name="empat">#ffe2bc</color>
+</resources>
